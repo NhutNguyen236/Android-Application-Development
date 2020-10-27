@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise01</string>
+    <string name="layouts">Layouts</string>
+    <string name="password">Password:</string>
+</resources>

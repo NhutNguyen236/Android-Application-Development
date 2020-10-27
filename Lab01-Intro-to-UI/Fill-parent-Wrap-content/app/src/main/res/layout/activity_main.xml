@@ -1,0 +1,35 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation = "vertical"
+    android:background = "#5891ed">
+
+    <Button
+        android:id = "@+id/wrap_content_button"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:text = "Wrap-content"/>
+
+    <Button
+        android:id = "@+id/fill_parent_button"
+        android:layout_width = "fill_parent"
+        android:layout_height = "wrap_content"
+        android:text = "Fill-Parent"/>
+
+    <LinearLayout
+        android:layout_width = "300dp"
+        android:layout_height = "fill_parent"
+        android:orientation = "vertical"
+        android:background = "#6fa18a">
+
+        <Button
+            android:id = "@+id/button_down"
+            android:layout_width = "fill_parent"
+            android:layout_height = "wrap_content"
+            android:text = "Fill-parent Of what it is"/>
+
+    </LinearLayout>
+
+</LinearLayout>

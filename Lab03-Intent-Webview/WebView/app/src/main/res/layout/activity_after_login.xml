@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AfterLogin">
+
+    <!--This is for the title-->
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/icon"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:src = "@drawable/icon"
+            android:layout_marginTop = "30px"
+            android:contentDescription="TODO" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="WebView AfterLogin"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="90dp"
+            android:textColor="#cfcedb"
+            android:textSize="30sp"
+            android:layout_marginStart="90dp" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_marginTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:orientation="horizontal">
+
+        <EditText
+            android:layout_width="300dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/editText"
+            android:hint="Enter URL"
+            android:focusable="true"
+            android:textColorHighlight="#ff7eff15"
+            android:textColorHint="#ffff25e6"
+            android:layout_marginTop="60dp"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Go"
+            android:id="@+id/button"
+            android:layout_marginTop="55dp"/>
+
+    </LinearLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="300dp">
+
+        <WebView
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:id="@+id/webView"
+            />
+    </RelativeLayout>
+
+</RelativeLayout>
