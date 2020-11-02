@@ -1,4 +1,4 @@
-# flutter_app
+# A 'simplest, finest' Flutter list view sample 
 
 A simple Flutter app uses listview
 
@@ -6,10 +6,10 @@ A simple Flutter app uses listview
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+A few resources to get you started with this app:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [ListView class from Flutter](https://api.flutter.dev/flutter/widgets/ListView-class.html)
+- [ListTile class from Flutter](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
