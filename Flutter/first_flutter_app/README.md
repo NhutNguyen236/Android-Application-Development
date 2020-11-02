@@ -14,7 +14,7 @@ A new Flutter application.
 * Step 2: Extract the Flutter SDK in the folder that you want to put it in then you will receive a *flutter* folder
 * Step 3: Add Flutter SDK to path by locating */bin* folder of Flutter SDK, mine is *D:\flutter\bin*
 <p align = "center">
-  <img src = "https://github.com/NhutNguyen236/Android_Application_Development/blob/master/Screenshots/Flutter-SDK-path.png" width = "400px" height = "400px"/>
+  <img src = "/Screenshots/Flutter-SDK-path.png" width = "400px" height = "400px"/>
 </p>
 
 * Step 4: Update Android SDK for Flutter by using command line: <br>
@@ -35,12 +35,12 @@ flutter doctor
 ```
 Then you can expect that y'all about to have a screen like this one, even if it still has some warnings and unexpected errors but the rest of Flutter still works fine to me so yeah, I will figure the way out how to fix that
 <p align = "center">
-  <img src = "https://github.com/NhutNguyen236/Android_Application_Development/blob/master/Screenshots/flutter-doctor.png" width = "900px" height = "420px"/>
+  <img src = "/Screenshots/flutter-doctor.png" width = "900px" height = "420px"/>
 </p>
 
 * Step 6: This could a minor one **but** it cannot be left behind. Adding Flutter plug-in to you Android Studio, without this one, nothing can be compiled. 
 <p align = "center">
-  <img src = "https://github.com/NhutNguyen236/Android_Application_Development/blob/master/Screenshots/Flutter-plugin.png" width = "400px" height = "400px"/>
+  <img src = "/Screenshots/Flutter-plugin.png" width = "400px" height = "400px"/>
 </p>
 
 * Step 6: Now everything should be ready, you can enjoy your Flutter now :grinning:
