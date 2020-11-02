@@ -63,5 +63,5 @@ samples, guidance on mobile development, and a full API reference.
 # Status 
 <p align = "center">Finished</p>
 <p align = "center">
-  <img src = "https://github.com/NhutNguyen236/Android_Application_Development/blob/master/Screenshots/first-Flutter-app.png" width = "300px" height = "500px"/>
+  <img src = "/Screenshots/first-Flutter-app.png" width = "300px" height = "500px"/>
 </p>
