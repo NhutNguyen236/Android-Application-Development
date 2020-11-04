@@ -12,3 +12,6 @@
 * Free cam: [Free_cam_for_download](https://www.freescreenrecording.com/)
 * Videopad: [Free_cam_for_download](https://www.nchsoftware.com/videopad/index.html) - Not recommended
 * Windows Movie Maker: [Windows_Movie_Make](https://taimienphi.vn/download-windows-movie-maker-lam-video-194) - For fair use
+
+# Note
+* Don't let the languages badge fool you cause in this repo, I just use 2 programming languages which are Java, Dart
