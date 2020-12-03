@@ -1,4 +1,4 @@
-# WELCOME TO FLUTTER FOLDER, PLACE FOR SIMPLEST FLUTTER-EER :smiley:
+# WELCOME TO FLUTTER FOLDER, THIS IS PLACE FOR FLUTTER TRAINING SERIES :smiley:
 
 <p align = "center">
   <img src = "https://i.stack.imgur.com/pfM2R.gif"/>
