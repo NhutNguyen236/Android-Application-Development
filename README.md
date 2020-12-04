@@ -15,3 +15,4 @@
 
 # Note
 * Don't let the languages badge fool you cause in this repo, I just use 2 programming languages which are Java, Dart
+* How to deep search for match cases, words, classes - Just `Ctrl + Shift + F` in Android Studio
